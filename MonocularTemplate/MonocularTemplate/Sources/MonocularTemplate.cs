@@ -8,7 +8,7 @@ namespace MonocularTemplate
 {
     public class MonocularTemplate : Engine
     {
-        public MonocularTemplate() : base(1024, 760, 1024, 768, "Monocular Template", false)
+        public MonocularTemplate() : base(1024, 768, 1024, 768, "Monocular Template", false)
         {
             ClearColor = Color.Black;
         }
